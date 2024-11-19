@@ -1,0 +1,1 @@
+Other than main project of 1 bit serial adder i am here attaching file for D-FlipFlop which is a small block in circuit. Also i am attaching .dch file for circuit verilog code and .msk file of 1 bit serial adder.
